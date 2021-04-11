@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: aytan.dev # the website title (if blank, full name will be used instead)
 first_name: Yiğit
 middle_name:
 last_name: Aytan
@@ -11,8 +11,8 @@ description: Some description
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-icon: 📌 # the emoji used as the favicon
-url:  # the base hostname & protocol for your site
+icon: 🖥️ # the emoji used as the favicon
+url: https://aytan.dev # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
