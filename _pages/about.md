@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Distributed Computing Enthusiast
+description: Distributed Computing Enthusiast | Boston, MA
 
 profile:
   align: right
@@ -21,6 +21,6 @@ I specialize in:
 * low latency serving systems
 
 I studied Computer Science and Business Administration with a minor in Mathematics at [University of Richmond](https://richmond.edu). After two college summer internships with Google,
-I joined [Google Cambridge](https://careers.google.com/locations/cambridge/) full-time post-graduation.
+I joined [Google Cambridge](https://careers.google.com/locations/cambridge/) full-time in 2012 after completing my college education.
 
 In addition to spending time with my family, I like to sail keelboats in the Massachusetts Bay during the summer months and go skiing in New England in the winter.
