@@ -2,14 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: aytan.dev # the website title (if blank, full name will be used instead)
 first_name: Yiğit
 middle_name:
 last_name: Aytan
 mailhide: https://mailhide.io/e/zSntAsBP
 description: Some description
-footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text:
 
 icon: 🖥️ # the emoji used as the favicon
 url: https://aytan.dev # the base hostname & protocol for your site
