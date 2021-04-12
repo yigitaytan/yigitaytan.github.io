@@ -23,7 +23,7 @@ show_navbar: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -54,7 +54,7 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-N56NFPP90C # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -132,7 +132,7 @@ github: [metadata]
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false
+enable_google_analytics:    true
 enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
