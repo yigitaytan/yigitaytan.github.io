@@ -71,6 +71,13 @@ pagination:
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
 
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 800
+    - width: 1024
+  output_path_format: assets/resized/%{width}/%{basename}
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -81,6 +88,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  world-tour:
+    defaults:
+      layout: post
+    output: true
+    permalink: /world-tour/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -123,6 +135,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-responsive-image
 
 # Extras
 github: [metadata]
