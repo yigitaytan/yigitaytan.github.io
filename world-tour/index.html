@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="world-tour-post">
+  <div class="header-bars">
+    <h1>World Tour - MSFS 2020</h1>
+    <h2>Circumnavigating the world on a TBM-930</h2>
+  </div>
+  <ul class="post-list">
+    {% for post in site.world-tour %}
+      <li>
+        <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
+        <p>{{ post.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

@@ -81,6 +81,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  world-tour:
+    defaults:
+      layout: post
+    output: true
+    permalink: /world-tour/:path/
   projects:
     output: true
     permalink: /projects/:path/
